@@ -1,13 +1,4 @@
 
-accessid= 'LTAIwSYt7T0g4Zp3';
-accesskey= 'vIZ2xV4ZVwZ9Ij43NkO3rjiKlcGAOu';
-host = 'https://img-video.oss-cn-beijing.aliyuncs.com';
-
-g_dirname = ''
-g_object_name = ''
-g_object_name_type = ''
-now = timestamp = Date.parse(new Date()) / 1000; 
-
 var policyText = {
     "expiration": "2020-01-01T12:00:00.000Z", //设置该Policy的失效时间，超过这个失效时间之后，就没有办法通过这个policy上传文件了
     "conditions": [
